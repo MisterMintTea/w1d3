@@ -23,3 +23,5 @@ console.log(obj);
 // 3) Pass it through a function
 // 4) Return instances of each letter in the string
 // 5) Return an object with the stats.
+
+// 1) Return all indices
